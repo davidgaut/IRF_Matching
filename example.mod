@@ -1,3 +1,8 @@
+% IRF Matching Estimation
+%-------------------------
+% David Gauthier - 2019
+%-------------------------
+
 clc, close all
 
 // Create fake data series to trick Dynare
